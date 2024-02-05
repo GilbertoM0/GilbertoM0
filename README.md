@@ -40,6 +40,7 @@
   </ul>
 </div>
 <!--tech stack icons-->
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,express,figma,github,html,java,js,kotlin,linux,mongodb,mysql,nodejs,py,react,ts,androidstudio,arduino,azure,eclipse,vscode&perline=14" />
@@ -50,7 +51,7 @@
 - **Languages**:
   <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,kotlin,py&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java&theme=light,js,kotlin,py&perline=14" />
   </a>
 </p>
     
