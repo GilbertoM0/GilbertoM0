@@ -48,7 +48,7 @@
 
 
 - **Languages**:
-  <p>
+  <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,kotlin,py&perline=14" />
   </a>
@@ -59,7 +59,7 @@
     
 - **Front-End Development**:
 
-<p>
+  <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js&perline=14" />
   </a>
