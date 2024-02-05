@@ -48,7 +48,7 @@
 
 
 - **Languages**:
-  <p align="center">
+  <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,kotlin,py&perline=14" />
   </a>
