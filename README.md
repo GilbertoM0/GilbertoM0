@@ -50,7 +50,7 @@
 - **Languages**:
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,kotlin,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,js,kotlin,py&perline=14" />
   </a>
 </p>
     
