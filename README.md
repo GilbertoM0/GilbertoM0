@@ -48,12 +48,11 @@
 
 
 - **Languages**:
-    <p align="center">
+  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?
-	 i=java,py,js&perline=14" />
-	 </a>
-	</p>
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,docker,express,figma,github,html,java,js,kotlin,linux,mongodb,mysql,nodejs,py,react,ts,androidstudio,arduino,azure,eclipse,vscode&perline=14" />
+  </a>
+</p>
     
 
 <br>   
