@@ -19,7 +19,7 @@
 <br>
 
 - A passionate Self-taught Front-end developer
-- Playing COD's at spare time
+- Playing Valorant at spare time
 - Currently learning Web Development by Self
 - Personal website [link](https://)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/gilmacias)
